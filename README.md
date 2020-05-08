@@ -7,7 +7,7 @@ Features supported
 - Support basic GET, POST requests
 - Render html files
 - Render jpeg,png,gif
-- Custom api for dynamic web pages (mvc)
+- Custom api for dynamic web pages (mvc
 - Support javascript rendring
 - Multithreaded, support mulitple client
 
